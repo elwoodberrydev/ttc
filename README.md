@@ -1,12 +1,12 @@
 # Trinity Training Camp WP Theme
-**Site:** [trinitytrainingcamp.com/](https://trinitytrainingcamp.com/)
+**Site:** [trinitytrainingcamp.com](https://trinitytrainingcamp.com/)
 
 
 
 
 
 ---
-Developed By
+
 Image	![Developed By Elwood Berry](https://elwoodberry.dev/wp-content/uploads/2020/10/elwoodberry_logo.png)
 
 # H1
