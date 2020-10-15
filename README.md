@@ -15,6 +15,15 @@ Owners want to promote their virtual training programs. Their virtual programs a
 
 ```
 
+## Road Blocks
+
+**Permalinks**
+Wordpress permalink option "Post name" creates a 404 when the page is loaded.
+
+**Get File Content**
+What is the best way to display Tranerize pages within a page template of TTC site?
+
+
 ### References
 **WordPress**
 - [Debugging](https://wordpress.org/support/article/debugging-in-wordpress/)
