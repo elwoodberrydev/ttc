@@ -1,8 +1,26 @@
 # Trinity Training Camp WP Theme
 **Site:** [trinitytrainingcamp.com](https://trinitytrainingcamp.com/)
 
+### Objective
+Owners want to promote their virtual training programs. Their virtual programs are hosted through a third party.
 
+## Page Templates
 
+```php
+
+ /* Template Name: Trainerize */
+
+ $json = file_get_contents('https://trinitytrainingcamp1.trainerize.com');
+ echo json_encode(json_decode($json, true);
+
+```
+
+### References
+**WordPress**
+- [Debugging](https://wordpress.org/support/article/debugging-in-wordpress/)
+
+**PHP**
+Cross-domain Content Using a PHP Proxy
 
 
 ---
