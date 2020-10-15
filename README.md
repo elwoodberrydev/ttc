@@ -6,8 +6,8 @@
 
 
 ---
-
-Image	![Developed By Elwood Berry](https://elwoodberry.dev/wp-content/uploads/2020/10/elwoodberry_logo.png)
+Developed By:
+![Developed By Elwood Berry](https://elwoodberry.dev/wp-content/uploads/2020/10/elwoodberry_logo.png)
 
 # H1
 ## H2
